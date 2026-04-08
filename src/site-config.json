@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Complete Tree Service",
+    "phone": "+14058424717",
+    "category": "tree service",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "tree-service-dark-premium",
+      "categoryGroup": "tree-service",
+      "name": "Dark Premium",
+      "recipeFile": "tree-service/dark-premium.astro",
+      "colors": {
+        "primary": "#86EFAC",
+        "primaryDark": "#6bbf8a",
+        "primaryLight": "#cff9de",
+        "secondary": "#2A2A2A",
+        "accent": "#98f1b8",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "tree-service/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Healthy Trees, Happy Homes",
+      "heroSubline": "Expert tree care services for Oklahoma City and surrounding areas. Protecting your property and enhancing its beauty.",
+      "aboutTitle": "Your Trusted Tree Care Partner",
+      "aboutText": [
+        "Complete Tree Service started as a small family operation with a passion for trees and a commitment to our community. Over a decade later, we've grown into a trusted name in Oklahoma City for providing comprehensive tree care solutions.",
+        "We believe in a proactive approach to tree care, focusing on preventative maintenance to ensure the long-term health and vitality of your trees. Our team is dedicated to providing honest assessments and sustainable solutions tailored to your specific needs.",
+        "We're proud to be a local business invested in the well-being of our community. We actively participate in local initiatives and strive to minimize our environmental impact through responsible tree care practices."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Arborists",
+          "description": "Certified arborists on staff with years of experience in Oklahoma's unique climate and tree species."
+        },
+        {
+          "title": "Comprehensive Services",
+          "description": "From routine pruning to emergency storm damage cleanup, we offer a full range of tree care solutions."
+        },
+        {
+          "title": "Safety First",
+          "description": "We prioritize safety in every project, utilizing advanced equipment and following strict industry standards."
+        },
+        {
+          "title": "Free Estimates",
+          "description": "We provide free, no-obligation estimates with transparent pricing and detailed explanations of our services."
+        }
+      ],
+      "ctaHeadline": "Get a Free Tree Service Estimate",
+      "ctaSubline": "Protect your property and enhance its value with expert tree care. Contact us today!"
+    },
+    "services": [
+      {
+        "slug": "tree-trimming-pruning",
+        "name": "Tree Trimming & Pruning",
+        "shortDescription": "Enhance the health and beauty of your trees with our professional trimming and pruning services.",
+        "description": "Proper tree trimming and pruning are essential for maintaining the health, safety, and aesthetics of your trees. Our certified arborists understand the specific needs of Oklahoma City's diverse tree species and utilize industry-best practices to promote healthy growth and prevent potential hazards. We carefully assess each tree to determine the appropriate pruning techniques, whether it's removing dead or diseased branches, thinning the crown for better air circulation, or shaping the tree for optimal form. \n\nOur tree trimming services can also help improve the overall appearance of your property and increase its value. We can remove branches that are obstructing views, interfering with power lines, or encroaching on buildings. We are especially mindful of the challenges presented by Oklahoma's climate, including the potential for ice storms, and will prune your trees to minimize the risk of damage. We adhere to all safety regulations and use specialized equipment to ensure a safe and efficient trimming process. \n\nWe can create a scheduled maintenance plan to ensure your trees remain healthy and beautiful for years to come. Contact us today to schedule a consultation and learn more about our tree trimming and pruning services.",
+        "process": [
+          "Step 1: Thorough assessment of the tree's health and structure.",
+          "Step 2: Develop a customized pruning plan based on the tree's specific needs.",
+          "Step 3: Precise trimming and pruning using appropriate techniques.",
+          "Step 4: Removal of debris and proper disposal of branches."
+        ],
+        "benefits": [
+          "Improved tree health and longevity",
+          "Enhanced safety and reduced risk of damage",
+          "Increased property value and curb appeal",
+          "Prevention of disease and pest infestations"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my trees trimmed?",
+            "answer": "The frequency of tree trimming depends on the species, age, and health of the tree. Generally, mature trees should be trimmed every 3-5 years, while younger trees may require more frequent pruning to establish a strong structure."
+          },
+          {
+            "question": "What is the best time of year to prune my trees in Oklahoma City?",
+            "answer": "The best time to prune most trees in Oklahoma City is during the dormant season, typically late winter or early spring. This allows the tree to heal quickly and promotes vigorous growth in the spring."
+          },
+          {
+            "question": "Do you offer storm damage cleanup?",
+            "answer": "Yes, we provide 24/7 emergency storm damage cleanup services. Our team is equipped to safely and efficiently remove fallen trees and branches, minimizing further damage to your property."
+          }
+        ]
+      },
+      {
+        "slug": "tree-removal",
+        "name": "Tree Removal",
+        "shortDescription": "Safe and efficient tree removal services for hazardous or unwanted trees.",
+        "description": "Tree removal is a complex and potentially dangerous task that should only be performed by experienced professionals. At Complete Tree Service, we have the expertise, equipment, and insurance to safely and efficiently remove trees of all sizes and species. We understand that tree removal is often a last resort, and we carefully assess each situation to determine if alternative solutions, such as tree trimming or cabling, are possible. \n\nHowever, there are times when tree removal is necessary, such as when a tree is dead, diseased, or poses a significant safety hazard. We can safely remove trees that are close to buildings, power lines, or other structures. Our team is trained in advanced rigging techniques and uses specialized equipment to minimize the risk of damage to your property. We carefully plan each removal project, taking into account the surrounding environment and potential obstacles. \n\nAfter the tree is removed, we can also grind the stump and remove the debris, leaving your property clean and ready for replanting or landscaping. We adhere to all local regulations and ensure that the removal process is environmentally responsible. Contact us today to schedule a consultation and learn more about our tree removal services.",
+        "process": [
+          "Step 1: Thorough assessment of the tree and surrounding area.",
+          "Step 2: Development of a safe and efficient removal plan.",
+          "Step 3: Careful removal of the tree using specialized equipment.",
+          "Step 4: Stump grinding and debris removal (optional)."
+        ],
+        "benefits": [
+          "Elimination of safety hazards",
+          "Prevention of property damage",
+          "Improved aesthetics and increased property value",
+          "Protection of surrounding trees and vegetation"
+        ],
+        "faq": [
+          {
+            "question": "How much does tree removal cost?",
+            "answer": "The cost of tree removal varies depending on several factors, including the size, species, and location of the tree, as well as the complexity of the removal process. We provide free, no-obligation estimates with transparent pricing."
+          },
+          {
+            "question": "Do I need a permit to remove a tree on my property?",
+            "answer": "The need for a permit depends on local regulations. We can help you determine if a permit is required and assist with the application process."
+          },
+          {
+            "question": "Can you remove a tree that is close to power lines?",
+            "answer": "Yes, we are experienced in removing trees that are close to power lines. We work closely with utility companies to ensure the safety of our team and the surrounding area."
+          }
+        ]
+      },
+      {
+        "slug": "stump-grinding-removal",
+        "name": "Stump Grinding & Removal",
+        "shortDescription": "Remove unsightly tree stumps and reclaim your yard with our professional stump grinding services.",
+        "description": "After a tree is removed, the remaining stump can be an eyesore and a potential hazard. Stump grinding is the most efficient and cost-effective way to remove these stumps and reclaim your yard. At Complete Tree Service, we use specialized stump grinding equipment to grind the stump below ground level, allowing you to replant grass, install landscaping, or build on the area. \n\nOur stump grinding services are safe, efficient, and environmentally friendly. We take precautions to protect your property and minimize disruption to your landscaping. We can grind stumps of all sizes and species, even those that are close to buildings or other structures. After the stump is ground, we remove the debris and fill the hole with topsoil, leaving your yard clean and ready for use. \n\nWe also offer complete stump removal services, which involve digging out the entire stump and root system. This is a more labor-intensive process, but it may be necessary in certain situations, such as when a large stump is located in a high-traffic area or when you want to completely eliminate the risk of regrowth. Contact us today to schedule a consultation and learn more about our stump grinding and removal services.",
+        "process": [
+          "Step 1: Assessment of the stump and surrounding area.",
+          "Step 2: Grinding of the stump below ground level.",
+          "Step 3: Removal of debris and filling of the hole with topsoil.",
+          "Step 4: Optional complete stump removal (digging out the entire stump and root system)."
+        ],
+        "benefits": [
+          "Elimination of unsightly tree stumps",
+          "Reclamation of yard space",
+          "Prevention of trip hazards",
+          "Elimination of potential pest infestations"
+        ],
+        "faq": [
+          {
+            "question": "How long does stump grinding take?",
+            "answer": "The time it takes to grind a stump depends on its size and species. Most stumps can be ground in a few hours."
+          },
+          {
+            "question": "Will stump grinding damage my lawn?",
+            "answer": "We take precautions to protect your lawn during the stump grinding process. We use mats to prevent damage from the equipment and clean up all debris after the job is complete."
+          },
+          {
+            "question": "What do you do with the stump grindings?",
+            "answer": "We can either remove the stump grindings or leave them for you to use as mulch or compost."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-tree-service",
+        "name": "Emergency Tree Service",
+        "shortDescription": "24/7 emergency tree service for storm damage, fallen trees, and other urgent situations.",
+        "description": "Oklahoma City is no stranger to severe weather, and storms can cause significant damage to trees. Fallen trees and branches can block driveways, damage property, and pose a serious safety hazard. At Complete Tree Service, we offer 24/7 emergency tree service to address these urgent situations. Our team is equipped to safely and efficiently remove fallen trees and branches, clear debris, and minimize further damage to your property. \n\nWe understand that emergency situations can be stressful, and we strive to provide prompt and reliable service. We will assess the damage, develop a safe removal plan, and work quickly to restore your property to its pre-storm condition. We are experienced in working with insurance companies and can provide documentation to support your claim. \n\nWhether you have a fallen tree blocking your driveway or a hazardous branch threatening your home, don't hesitate to call us for emergency tree service. We are here to help you 24 hours a day, 7 days a week. We understand the unique challenges that Oklahoma's climate presents, from ice storms to high winds, and we are prepared to handle any tree-related emergency.",
+        "process": [
+          "Step 1: Prompt response to your emergency call.",
+          "Step 2: Rapid assessment of the damage and development of a safe removal plan.",
+          "Step 3: Safe and efficient removal of fallen trees and branches.",
+          "Step 4: Debris removal and property restoration."
+        ],
+        "benefits": [
+          "24/7 availability for emergency situations",
+          "Rapid response and efficient service",
+          "Minimization of property damage",
+          "Peace of mind during stressful times"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if a tree falls on my house?",
+            "answer": "If a tree falls on your house, immediately evacuate the building and call 911. Then, call us for emergency tree service. Do not attempt to remove the tree yourself."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls as quickly as possible. Our response time depends on our current workload and the location of your property, but we will typically arrive within a few hours."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we are experienced in working with insurance companies and can provide documentation to support your claim."
+          }
+        ]
+      },
+      {
+        "slug": "tree-planting",
+        "name": "Tree Planting",
+        "shortDescription": "Enhance your landscape with our professional tree planting services.",
+        "description": "Planting a tree is an investment in the future. A well-chosen and properly planted tree can provide shade, beauty, and environmental benefits for generations to come. At Complete Tree Service, we offer professional tree planting services to help you select the right tree for your property and ensure its long-term health. We understand the unique challenges of planting trees in Oklahoma City's clay soil and hot climate, and we take the necessary steps to ensure that your new tree thrives. \n\nWe can help you choose the right tree species based on your soil conditions, sunlight exposure, and aesthetic preferences. We source our trees from reputable nurseries and ensure that they are healthy and disease-free. We carefully prepare the planting site, amending the soil as needed to provide the best possible growing conditions. We also provide ongoing care and maintenance tips to help you keep your new tree healthy and strong. \n\nFrom selecting the perfect tree to ensuring its proper planting and care, we are here to help you create a beautiful and sustainable landscape. Contact us today to schedule a consultation and learn more about our tree planting services.",
+        "process": [
+          "Step 1: Consultation to discuss your needs and preferences.",
+          "Step 2: Selection of the right tree species for your property.",
+          "Step 3: Careful preparation of the planting site.",
+          "Step 4: Proper planting techniques to ensure long-term health."
+        ],
+        "benefits": [
+          "Increased property value and curb appeal",
+          "Shade and cooling during hot Oklahoma summers",
+          "Environmental benefits, such as improved air quality",
+          "Long-term beauty and enjoyment"
+        ],
+        "faq": [
+          {
+            "question": "What is the best time of year to plant a tree in Oklahoma City?",
+            "answer": "The best time to plant a tree in Oklahoma City is during the fall or early spring, when the weather is mild and the soil is moist."
+          },
+          {
+            "question": "What type of soil do trees need in Oklahoma City?",
+            "answer": "Oklahoma City's clay soil can be challenging for trees. It's important to amend the soil with organic matter to improve drainage and aeration."
+          },
+          {
+            "question": "How much should I water a newly planted tree?",
+            "answer": "Water newly planted trees deeply and regularly, especially during the first few months. Check the soil moisture regularly and water when the top inch is dry."
+          }
+        ]
+      },
+      {
+        "slug": "disease-pest-management",
+        "name": "Tree Disease & Pest Management",
+        "shortDescription": "Protect your trees from disease and pests with our expert management services.",
+        "description": "Oklahoma City's trees are susceptible to a variety of diseases and pests, which can weaken or even kill them. Early detection and proactive management are essential for protecting your trees and maintaining their health. At Complete Tree Service, we offer expert tree disease and pest management services to diagnose and treat a wide range of problems. \n\nOur certified arborists are trained to identify common tree diseases and pests in Oklahoma City, such as oak wilt, emerald ash borer, and bagworms. We use a variety of treatment methods, including preventative sprays, soil injections, and trunk injections, to control diseases and pests and prevent further damage. We also provide advice on proper tree care practices to help you keep your trees healthy and resistant to disease and pests. \n\nWe believe in a proactive approach to tree health. We will inspect your trees regularly, identify potential problems early, and recommend appropriate treatment options. Our goal is to help you protect your investment in your trees and ensure their long-term health and beauty. Contact us today to schedule a consultation and learn more about our tree disease and pest management services.",
+        "process": [
+          "Step 1: Thorough inspection of your trees to identify diseases and pests.",
+          "Step 2: Accurate diagnosis of the problem.",
+          "Step 3: Development of a customized treatment plan.",
+          "Step 4: Application of appropriate treatment methods."
+        ],
+        "benefits": [
+          "Protection of your trees from disease and pests",
+          "Prevention of further damage",
+          "Improved tree health and longevity",
+          "Peace of mind knowing your trees are protected"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my tree has a disease or pest problem?",
+            "answer": "Signs of tree disease or pest problems include discolored leaves, wilting, stunted growth, holes in leaves or bark, and the presence of insects or other pests."
+          },
+          {
+            "question": "What is oak wilt?",
+            "answer": "Oak wilt is a fungal disease that can kill oak trees quickly. It is spread by insects and through root grafts. Symptoms include wilting and browning of leaves, followed by rapid death of the tree."
+          },
+          {
+            "question": "How can I prevent tree diseases and pests?",
+            "answer": "Proper tree care practices, such as watering, fertilizing, and pruning, can help prevent tree diseases and pests. Regular inspections by a certified arborist can also help identify problems early."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Complete Tree Service is proud to offer comprehensive tree care services to the residents and businesses of Oklahoma City. From routine tree trimming and pruning to emergency storm damage cleanup and complete tree removal, our team of certified arborists is equipped to handle any tree-related need. We understand the unique challenges faced by trees in the Oklahoma climate, including harsh summers and unpredictable storms, and we tailor our services to ensure the health and longevity of your trees.",
+        "localContext": "Oklahoma City, the state capital, is a vibrant metropolitan area with a diverse landscape of urban and suburban environments. Our team is experienced in navigating the specific challenges presented by trees in both residential and commercial settings throughout OKC.",
+        "nearbyAreas": [
+          "Edmond",
+          "Moore",
+          "Norman"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "Complete Tree Service is committed to providing top-quality tree care services to the Edmond community. We offer a full range of services, including tree trimming, pruning, removal, stump grinding, and emergency tree care. Our team of experienced arborists is dedicated to preserving the beauty and health of the trees in Edmond, ensuring they thrive for years to come. We understand the importance of maintaining the aesthetic appeal of your property and are committed to providing exceptional service with a focus on customer satisfaction.",
+        "localContext": "Edmond, known for its family-friendly atmosphere and beautiful parks, boasts a diverse range of tree species. We understand the specific needs of the trees in Edmond and tailor our services to meet those needs.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "Complete Tree Service provides reliable and professional tree care services to the residents and businesses of Moore, Oklahoma. We specialize in a variety of services, including tree trimming, tree removal, stump grinding, and emergency storm damage cleanup. With a focus on safety and efficiency, our team is equipped to handle any tree-related challenge. We are committed to providing exceptional customer service and ensuring the health and beauty of your trees.",
+        "localContext": "Moore, a growing suburb of Oklahoma City, has experienced its share of severe weather. We are experienced in addressing storm damage and mitigating future risks to your trees.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Norman",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "Complete Tree Service offers comprehensive tree care services to the Norman community, home of the University of Oklahoma. Our services include tree trimming, pruning, removal, stump grinding, and emergency tree care. We are dedicated to providing the highest quality of tree care, and we are committed to ensuring the health and beauty of your trees. From residential properties to commercial landscapes, our team is equipped to handle any tree-related need in Norman.",
+        "localContext": "Norman's mature trees contribute significantly to the city's character. We understand the importance of preserving these trees and offer services tailored to their specific needs.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Moore",
+          "Purcell"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "Complete Tree Service is dedicated to providing top-notch tree care services to the residents and businesses of Yukon, Oklahoma. Our services include tree trimming, tree removal, stump grinding, and emergency storm damage cleanup. With a focus on safety and efficiency, our team is equipped to handle any tree-related challenge. We pride ourselves on exceptional customer service and ensuring the health and beauty of the trees in Yukon.",
+        "localContext": "Yukon, known for its Czech heritage and strong community spirit, values the beauty and health of its trees. We are committed to preserving the natural beauty of Yukon through expert tree care.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "Complete Tree Service proudly provides tree care services to the growing community of Mustang, Oklahoma. We offer a full range of services including tree trimming, pruning, tree removal, stump grinding, and emergency services. Our experienced team is committed to maintaining the health and beauty of your landscape. We understand the specific needs of trees in Mustang and tailor our services to ensure their longevity and safety.",
+        "localContext": "Mustang is a rapidly developing city with a mix of new and established landscapes. We are equipped to handle the unique challenges presented by trees in both residential and commercial settings throughout Mustang.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Yukon",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Bethany",
+        "slug": "bethany-ok",
+        "state": "OK",
+        "content": "Complete Tree Service is dedicated to serving the residents and businesses of Bethany, Oklahoma, with expert tree care solutions. We offer a comprehensive suite of services, including tree trimming, pruning, removal, stump grinding, and emergency assistance. Our team is committed to preserving the health and beauty of the trees in Bethany, while adhering to the highest safety standards. We understand the importance of maintaining a healthy urban forest and are dedicated to providing exceptional service.",
+        "localContext": "Bethany, a city with a rich history and a strong sense of community, values its green spaces. We are committed to preserving the natural beauty of Bethany through expert tree care.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Warr Acres",
+          "Yukon"
+        ]
+      },
+      {
+        "city": "Warr Acres",
+        "slug": "warr-acres-ok",
+        "state": "OK",
+        "content": "Complete Tree Service is proud to offer professional tree care services to the residents and businesses of Warr Acres, Oklahoma. From routine maintenance such as tree trimming and pruning to more complex services like tree removal and emergency storm damage cleanup, our team of certified arborists is equipped to handle any job. We prioritize the health and safety of your trees and property, offering tailored solutions to meet your specific needs.",
+        "localContext": "Warr Acres, a close-knit community within the Oklahoma City metropolitan area, benefits greatly from healthy, well-maintained trees. We are committed to enhancing the beauty and safety of Warr Acres through expert tree care.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Bethany",
+          "The Village"
+        ]
+      },
+      {
+        "city": "The Village",
+        "slug": "the-village-ok",
+        "state": "OK",
+        "content": "Complete Tree Service is committed to providing exceptional tree care services to the residents and businesses of The Village, Oklahoma. Our services encompass everything from tree trimming and pruning to tree removal and emergency storm damage cleanup. Our team of experienced professionals prioritizes the health, safety, and aesthetic appeal of your trees, ensuring they enhance the beauty and value of your property.",
+        "localContext": "The Village, a primarily residential community, places a high value on well-maintained landscapes and mature trees. We are dedicated to preserving the natural beauty of The Village through expert tree care.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Nichols Hills",
+          "Warr Acres"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Tree Trimming",
+        "text": "Complete Tree Service did an excellent job trimming our large oak tree. They were professional, efficient, and left our yard clean. The tree looks so much better now!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Tree Removal",
+        "text": "We had a large, dead tree that needed to be removed. Complete Tree Service provided a competitive quote and completed the job safely and efficiently. I would definitely use them again.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Stump Grinding",
+        "text": "I was very happy with the stump grinding service I received. The crew arrived on time, ground the stump quickly, and cleaned up the area. I can finally plant grass where the stump used to be!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Emergency Tree Service",
+        "text": "After a severe storm, a large branch fell on our car. Complete Tree Service responded quickly and removed the branch safely. They were a lifesaver!",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Tree Planting",
+        "text": "Complete Tree Service helped us choose and plant a beautiful maple tree in our backyard. They provided helpful advice on how to care for the tree and ensure its long-term health.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Tree Disease Management",
+        "text": "I was concerned about the health of my oak tree. Complete Tree Service diagnosed the problem and provided effective treatment. My tree is now thriving!",
+        "date": "2025-02-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Complete Tree Service | OKC Tree Care",
+        "description": "Oklahoma City's trusted tree service. Trimming, removal, emergency service & more. Free estimates!"
+      },
+      "about": {
+        "title": "About Complete Tree Service",
+        "description": "Learn about Complete Tree Service, our commitment to quality tree care in Oklahoma City, and our experienced team."
+      },
+      "services": {
+        "title": "Tree Services | Complete Tree Service",
+        "description": "Comprehensive tree services in OKC. Trimming, removal, stump grinding, emergency service, & more."
+      },
+      "contact": {
+        "title": "Contact Complete Tree Service",
+        "description": "Contact Complete Tree Service for tree care in Oklahoma City. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Complete Tree Service Reviews",
+        "description": "Read reviews from satisfied customers of Complete Tree Service in Oklahoma City."
+      },
+      "service-areas": {
+        "title": "Service Areas | Complete Tree Service",
+        "description": "Complete Tree Service provides tree care services in Oklahoma City and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tree-trimming-pruning": "/images/service-tree-trimming-pruning.webp",
+      "tree-removal": "/images/service-tree-removal.webp",
+      "stump-grinding-removal": "/images/service-stump-grinding-removal.webp",
+      "emergency-tree-service": "/images/service-emergency-tree-service.webp",
+      "tree-planting": "/images/service-tree-planting.webp",
+      "disease-pest-management": "/images/service-disease-pest-management.webp"
+    },
+    "servicesResponsive": {
+      "tree-trimming-pruning": {
+        "src": "/images/service-tree-trimming-pruning.webp",
+        "srcset": "/images/service-tree-trimming-pruning-400w.webp 400w, /images/service-tree-trimming-pruning-800w.webp 800w, /images/service-tree-trimming-pruning-1200w.webp 1200w, /images/service-tree-trimming-pruning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-removal": {
+        "src": "/images/service-tree-removal.webp",
+        "srcset": "/images/service-tree-removal-400w.webp 400w, /images/service-tree-removal-800w.webp 800w, /images/service-tree-removal-1200w.webp 1200w, /images/service-tree-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stump-grinding-removal": {
+        "src": "/images/service-stump-grinding-removal.webp",
+        "srcset": "/images/service-stump-grinding-removal-400w.webp 400w, /images/service-stump-grinding-removal-800w.webp 800w, /images/service-stump-grinding-removal-1200w.webp 1200w, /images/service-stump-grinding-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-tree-service": {
+        "src": "/images/service-emergency-tree-service.webp",
+        "srcset": "/images/service-emergency-tree-service-400w.webp 400w, /images/service-emergency-tree-service-800w.webp 800w, /images/service-emergency-tree-service-1200w.webp 1200w, /images/service-emergency-tree-service.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-planting": {
+        "src": "/images/service-tree-planting.webp",
+        "srcset": "/images/service-tree-planting-400w.webp 400w, /images/service-tree-planting-800w.webp 800w, /images/service-tree-planting-1200w.webp 1200w, /images/service-tree-planting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "disease-pest-management": {
+        "src": "/images/service-disease-pest-management.webp",
+        "srcset": "/images/service-disease-pest-management-400w.webp 400w, /images/service-disease-pest-management-800w.webp 800w, /images/service-disease-pest-management-1200w.webp 1200w, /images/service-disease-pest-management.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
